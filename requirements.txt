@@ -1,6 +1,3 @@
 ultralytics
 fastapi
-uvicorn 
-transformers 
-torch 
-pydantic
+uvicorn
