@@ -1,3 +1,6 @@
 ultralytics
 fastapi
 uvicorn
+transformers
+python-multipart
+-e .
